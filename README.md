@@ -1,4 +1,4 @@
 KCMinchakpu
 
-This is my personal website showing my work experiences and project. This is my digital Curriculum Vitae.
+This is my website, which shows my work experiences and projects. This is my digital Curriculum Vitae.
 
